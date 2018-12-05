@@ -5,3 +5,4 @@ wait(2)
 Browser("Advantage Shopping").Page("Advantage Shopping").Image("product").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Image("fetchImage?image id4600")_;_script infofile_;_ZIP::ssf36.xml_;_
 wait(2)
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME")_;_script infofile_;_ZIP::ssf37.xml_;_
+wait(2)
